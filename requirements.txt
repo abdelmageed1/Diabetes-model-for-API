@@ -1,7 +1,6 @@
-fastapi
-uvicorn
-pydantic
-json
-pickle
-scikit-learn
-requests
+
+fastapi==0.103.1
+uvicorn==0.23.0
+pydantic==2.5.1
+scikit-learn==1.6.1
+requests==2.31.0
